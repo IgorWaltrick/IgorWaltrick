@@ -98,15 +98,6 @@ Research                      ───  Reproducible, practical and evidence-ba
 
 
 
-GitHub Activity
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=igorwaltrick&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=0f766e&icon_color=32cd32&text_color=475569&bg_color=ffffff" alt="Igor's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=igorwaltrick&hide_border=true&ring=0f766e&fire=32cd32&currStreakLabel=0f766e&sideLabels=475569&dates=64748b&background=ffffff" alt="Igor's GitHub streak" />
-</div> <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwaltrick&layout=compact&hide_border=true&title_color=0f766e&text_color=475569&bg_color=ffffff" alt="Most used programming languages" />
-</div>
-
 Let’s Connect
 
 I am always open to conversations about agricultural research, data science, machine learning, sustainability, and projects that create meaningful impact through technology.
