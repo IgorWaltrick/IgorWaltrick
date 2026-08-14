@@ -3,7 +3,7 @@
 </a> <p>
   <a href="https://github.com/igorwaltrick"><img src="https://komarev.com/ghpvc/?username=igorwaltrick&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS" alt="Profile views" /></a>
   <a href="https://www.linkedin.com/in/igor-rodrigues-waltrick"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:igorwaltrick@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </p> </div>
 
 
@@ -108,10 +108,6 @@ I am always open to conversations about agricultural research, data science, mac
   </a>
   <a href="http://lattes.cnpq.br/3812350788534593">
     <img src="https://img.shields.io/badge/Lattes-Academic_Profile-65A30D?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes academic profile" />
-  </a>
- [![Email](https://img.shields.io/badge/Email-Say_Hello-334155?style=for-the-badge&logo=gmail&logoColor=white )](mailto:igorwaltrick@gmail.com)
-  <img src="https://img.shields.io/badge/Email-Say_Hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-</a>
   </a>
 </div>   
  <div align="center">
