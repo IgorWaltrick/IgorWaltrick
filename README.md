@@ -109,7 +109,7 @@ I am always open to conversations about agricultural research, data science, mac
   <a href="http://lattes.cnpq.br/3812350788534593">
     <img src="https://img.shields.io/badge/Lattes-Academic_Profile-65A30D?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Lattes academic profile" />
   </a>
- <a href="mailto:igorwaltrick@gmail.com?subject=Contact%20from%20GitHub">
+ [![Email](https://img.shields.io/badge/Email-Say_Hello-334155?style=for-the-badge&logo=gmail&logoColor=white )](mailto:igorwaltrick@gmail.com)
   <img src="https://img.shields.io/badge/Email-Say_Hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
 </a>
   </a>
